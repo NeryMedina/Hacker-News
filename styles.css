@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(116, 168, 168);
+}
+
+h1 {
+    color:blanchedalmond;
+    font-family: 'Space Mono', monospace;
+}
+li.list-group-item {
+    background-color: rgb(116, 168, 168);
+}
+
+a {
+    color:blanchedalmond;
+}
+
+ul {
+    background-color: rgb(116, 168, 168);
+}
+
+button.page-item.btn.btn-primary {
+    background-color: rgb(71, 157, 192);
+    border-color: black;
+    padding: 7px 21px;
+    margin: 5px;
+}
+
+.btn:hover {
+    color: black;
+}
